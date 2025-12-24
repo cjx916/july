@@ -1,0 +1,5 @@
+{
+  "name": "Luminous Christmas Tree",
+  "description": "A high-performance 3D particle Christmas tree visualization using Three.js and React, featuring cinematic bloom and custom particle physics.",
+  "requestFramePermissions": []
+}
